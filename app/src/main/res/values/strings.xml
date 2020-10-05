@@ -1,3 +1,29 @@
 <resources>
     <string name="app_name">Doc-Pat</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="sign_in">Sign In</string>
+    <string name="password">Password</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="don_t_have_an_account_create_account_here">Don\'t have an account? Create account Here.</string>
+    <string name="full_name">Full Name</string>
+    <string name="email">Email</string>
+    <string name="education_status">Education Status</string>
+    <string name="specialization">Specialization</string>
+    <string name="profession">Profession</string>
+    <string name="address">Address</string>
+    <string name="doctor">Doctor</string>
+    <string name="patient">Patient</string>
+    <string name="createAccDialogTit">\"Create Account as: \"</string>
+    <string name="createAccDialogMsg">Are you a doctor or a patient</string>
+    <string name="sign_up_as_patient">Sign up as Patient</string>
+    <string name="sign_up_as_doctor">Sign up as Doctor</string>
+    <string name="nameerror">Enter a valid name</string>
+    <string name="emailerror">Enter a valid email</string>
+    <string name="mobileerror">Enter a valid mobile</string>
+    <string name="dateerror">Enter a valid date</string>
+    <string name="ageerror">Enter a valid age</string>
+    <string name="age">age</string>
+    <string name="any_disease">Any Previous Disease</string>
+    <string name="entet_email_error">Enter an email</string>
+    <string name="enter_pass">Enter password</string>
 </resources>
